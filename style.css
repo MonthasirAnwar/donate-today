@@ -1,0 +1,153 @@
+.donation-image img{
+    width: 100%;
+    * {
+        margin: 0;
+        padding: 0;
+        font-family 
+     
+      }
+  }
+  .donation-image{
+    position: relative;
+    width: 100%;
+  }
+  .head {
+    color: whitesmoke;
+    position: absolute;
+    font-size: xx-large;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+  }
+  .paragraph{
+    color: antiquewhite;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+  }
+  .donate-now {
+    color: rgb(252, 250, 249);
+    position: absolute;
+    text-decoration: none;
+    top: 70%;
+    width: 10%;
+    margin-left: 45%;
+    background-color: rgb(226, 119, 107);
+    border-radius: 5px;
+    padding: 5px 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+  }
+  .second-para{
+    text-align: center;
+    margin-top: 5%;
+  }
+  .head2{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .spara{
+    color: rgb(197, 199, 201);
+  }
+  .taka{
+  text-align: center;
+  margin-top: 2%;
+  color: rgb(111, 112, 112);
+ }
+  button {
+  color: black;
+  margin: 15px 15px;
+  font-size: larger;
+  padding: 20px 20px;
+}
+  .divine {
+    color: salmon;
+  }
+  .sdonate {
+    color: white;
+    background-color: rgb(224, 66, 38);
+    margin-left: 45%;
+    padding: 15px 25px;
+    width: 10%;
+    text-align: center;
+    text-decoration: none;
+  }
+  .amount-plan {
+    text-align: center;
+    padding: 10px 0px;
+  }
+  .donate-plan-text {
+    display: flex;
+  
+ 
+  }
+  .donate-plan {
+    text-align: center;
+    color: rgb(10, 10, 10);
+    display: block;
+    margin-top: 5%;
+  }
+  .family {
+    margin-top: 5%;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding: 15px 15px;
+    font-size: small;
+    background-color: antiquewhite;
+  }
+  .one {
+    margin-top: 5%;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding: 15px 15px;
+    font-size: small;
+    background-color: rgb(211, 217, 223);
+  }
+  .half-width {
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 40px;
+    background-color: beige;
+    margin-bottom: 10px;
+  }
+  .half-width img {
+    width: 70%;
+  }
+  .contribute {
+    display: flex;
+  }
+  .update {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .subscribers {
+    text-align: center;
+    margin-top: 15px;
+  }
+  .subscribehere {
+    color: white;
+    background-color: salmon;
+    margin-left: 0;
+    padding: 1px 15px;
+    width: 10%;
+    text-align: center;
+    text-decoration: none;
+  }
+  footer {
+    background-color: rgb(3, 4, 44);
+    color: aliceblue;
+    text-align: center;
+    margin-top: 60px;
+    padding: 20px 0px;
+    font-size: small;
+  }
+  span {
+    color: salmon;
+  }
